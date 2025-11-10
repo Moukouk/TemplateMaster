@@ -78,4 +78,4 @@ Whether you’re creating invoices, contracts, or marketing emails — TemplateM
 
 ---
 
-© {{ new Date().getFullYear() }} TemplateMaster — All rights reserved.
+© 2025 TemplateMaster — All rights reserved.
