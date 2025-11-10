@@ -43,8 +43,7 @@ Integrate TemplateMaster seamlessly into your existing applications via APIs for
 **Frontend:** Vue 3 + Quasar Framework
 **Backend:** ASP.NET Core (.NET 8)
 **Database:** SQL Server
-**Authentication (optional):** Keycloak
-**Infrastructure:** Docker + Nginx + Cloudflare
+**Infrastructure:** Docker + Nginx + Cloudflare + Hostinger VPS
 
 ---
 
